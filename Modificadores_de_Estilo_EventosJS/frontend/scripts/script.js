@@ -94,3 +94,9 @@ campoBusca.addEventListener(`keydown`, (e) => {
         console.log(`Busca confirmada`);
     }
 });
+
+
+// Bloco 4 — Para pensar (sem código) 
+// 13. Repare que nos exercícios 8 a 12 vocês usaram eventos diferentes de click para cada situação (mouse, digitação, formulário, foco, teclado). Na opinião de vocês, por que faz sentido existirem eventos diferentes em vez de um só evento genérico para "algo aconteceu"?
+
+// --------> R: Pois dependendo da aplicação precisamos ser específicos. Se estivermos lidando com evento de botão, passar o mouse por cima do botão (mouseenter) não é a mesma coisa que clicar (click) no botão. Não iria funcionar com um evento genérico. 
