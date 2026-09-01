@@ -1,0 +1,25 @@
+.ativo {
+  background-color: #ffe08a;
+}
+
+.escondido {
+  display: none;
+}
+
+.destaque {
+  border: 2px solid crimson;
+  font-weight: bold;
+}
+
+.sucesso {
+  color: green;
+}
+
+.erro {
+  color: red;
+}
+
+.dark-theme{
+    background-color: black;
+    color: aliceblue;
+}
